@@ -1,6 +1,6 @@
 {
   "name": "test_demo_npm_js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "这是一个测试包，请勿下载",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,8 @@
   "license": "ISC",
   "devDependencies": {
     "vite": "^4.4.3"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://maven.klcgis.com/repository/local-npm/"
+  },
 }
