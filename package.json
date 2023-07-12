@@ -1,6 +1,6 @@
 {
   "name": "test_demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "这是一个测试包，请勿下载",
   "main": "index.js",
   "scripts": {
