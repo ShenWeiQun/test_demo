@@ -1,6 +1,6 @@
 {
-  "name": "test_demo_223344776",
-  "version": "1.0.1",
+  "name": "test_demo_npm_js",
+  "version": "1.0.2",
   "description": "这是一个测试包，请勿下载",
   "main": "index.js",
   "scripts": {
