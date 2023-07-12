@@ -1,5 +1,5 @@
 {
-  "name": "test_demo_npm_js",
+  "name": "understanding-github-actions",
   "version": "1.0.5",
   "description": "这是一个测试包，请勿下载",
   "main": "index.js",
